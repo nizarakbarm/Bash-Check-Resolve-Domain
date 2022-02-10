@@ -1,6 +1,10 @@
 # Bash-Check-Resolve-Domain
 A repository of bash script that can be used for checking domain resolving. You can run it using cron too
 
+## Requirement
+curl
+geoiplookup (you can search at your os repository which package that provide geoiplookup)
+
 ## How to Use
 1. Fill your domain at listdomain file
    Example:

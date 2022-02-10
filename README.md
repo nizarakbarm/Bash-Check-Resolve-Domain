@@ -22,6 +22,8 @@ If you want to run it at cronjob, you can add it at your cronjob by using `cront
 ```
 Note: 
 path must be changed by directory path of your file
+
 the time of cronjob can be changed according to the needs. If you need to run it once 30 minutes, you must change it to `*/30 * * * *`
+
 
 The result can be checked at log_check_dns_resolve_public_dns_[domainname]. Note: domainname part is the domain name

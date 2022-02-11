@@ -44,7 +44,7 @@ The result can be checked at log_check_dns_resolve_public_dns_[domainname]. Note
 
 2. Execute this command
    ```
-   cat log_check_dns_resolve_public_dns_4tuks.com| grep -v [change_with_the_expcted_ip_that_resolved] | egrep [pastetheoutputfrombefore]
+   cat log_check_dns_resolve_public_dns_tes.com| grep -v [change_with_the_expcted_ip_that_resolved] | egrep [pastetheoutputfrombefore]
    ``` 
 
    Example of the command:
